@@ -1,0 +1,13 @@
+site_name: Mohanson
+site_description: Mohanson 的网络日志, 分享数字图像处理, 编译器和虚拟机等领域的原创文章.
+site_url: http://accu.cc
+site_author: Mohanson
+theme:
+        name: readthedocs
+        highlightjs: true
+        custom_dir: custom_theme/
+repo_url: https://github.com/mohanson/accu
+plugins: []
+dev_addr: 0.0.0.0:8080
+nav:
+- "CKB-VM: B 扩展指令集与宏指令融合技术": content/misc/ckb_vm_b_extension_and_mop.md
