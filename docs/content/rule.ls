@@ -12,3 +12,6 @@ R *.google.cn
 
 R   googleapis.com
 R *.googleapis.com
+
+R   huobi.fm
+R *.huobi.fm
