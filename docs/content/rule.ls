@@ -15,3 +15,6 @@ R *.googleapis.com
 
 R   huobi.fm
 R *.huobi.fm
+
+R   ycombinator.com
+R *.ycombinator.com
