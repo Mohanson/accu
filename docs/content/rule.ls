@@ -13,8 +13,8 @@ R *.google.cn
 R   googleapis.com
 R *.googleapis.com
 
-R   huobi.fm
-R *.huobi.fm
+R   huobi.com
+R *.huobi.com
 
 R   ycombinator.com
 R *.ycombinator.com
