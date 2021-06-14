@@ -16,5 +16,8 @@ R *.googleapis.com
 R   huobi.com
 R *.huobi.com
 
+R   v2ex.com
+R *.v2ex.com
+
 R   ycombinator.com
 R *.ycombinator.com
