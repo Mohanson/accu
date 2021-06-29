@@ -4,12 +4,15 @@ B nsclick.baidu.com
 B   cnzz.com
 B *.cnzz.com
 
-R   google.com
-R *.google.com
+R   discord.com
+R *.discord.com
+R   discordapp.com
+R *.discordapp.com
 
 R   google.cn
 R *.google.cn
-
+R   google.com
+R *.google.com
 R   googleapis.com
 R *.googleapis.com
 
