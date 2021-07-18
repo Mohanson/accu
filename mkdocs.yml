@@ -132,6 +132,7 @@ nav:
         - 杂项/演讲 WASC, WebAssembly 到 RISC-V 的 AOT 编译器(英文): content/misc/wasc_en.md
         - 杂项/演讲 CKB VM B 扩展指令集与宏指令融合: content/misc/ckb_vm_b_extension_and_mop.md
         - 杂项/演讲 RISC-V 在区块链智能及云原生中的应用, 机遇与挑战: content/misc/riscv_and_ckb_vm.md
+        - 杂项/蒙哥马利约分算法: content/misc/montgomery.md
         - 杂项/Dlib 人脸识别: content/misc/dlib.md
         - 杂项/RC4: content/misc/rc4.md
         - 杂项/生命游戏: content/misc/game_of_life/overview.md
