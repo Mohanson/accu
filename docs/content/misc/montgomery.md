@@ -51,15 +51,15 @@ X' = X * R % N
 ```
 
 ```text
-求 c  = a * b % N
+c  = a * b % N
 
-有 a' = a * R % N
-   b' = b * R % N
-   c' = (a' * b') * R⁻¹ % N
-      = REDC(a' * b')
-有 c  = c' * R⁻¹ % n
-      = REDC(c')
-      = REDC(REDC(a' * b'))
+a' = a * R % N
+b' = b * R % N
+c' = (a' * b') * R⁻¹ % N
+   = REDC(a' * b')
+c  = c' * R⁻¹ % n
+   = REDC(c')
+   = REDC(REDC(a' * b'))
 ```
 
 其中 `R * R % N` 为常数, 在程序代码中可以进行提前计算.
